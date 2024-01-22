@@ -1,0 +1,51 @@
+form{
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    background-color: aqua;
+}
+legend{
+text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: white;
+}
+input[type=text],input[type=date],textarea,select{
+    width: 50%;
+    height: 20px;
+    margin-top: 10px;
+    padding-left: 15px;
+    border-radius:5px;
+    float: right;
+
+
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 150px;
+}
+button[type=button]{
+    background-color: purple;
+}
+button[type=submit]{
+    background-color: chartreuse;
+}
+
+label{
+    font-weight: bold;
+
+}
+select{
+    float: right;
+    width: 50%;
+    height: 20px;
+    margin-top: 10px;
+    padding-left: 15px;
+    border-radius: 5px;
+}
+select{
+    float: right;
+    width: 340px;
+}

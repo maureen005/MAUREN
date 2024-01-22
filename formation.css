@@ -1,0 +1,31 @@
+form{
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    background-color: maroon;
+}
+input[type=text],input[type=email],input[type=password],input[type=number],textarea,select{
+    width: 50%;
+    height: 20px;
+    margin-top: 10px;
+    padding-left: 15px;
+    float: right;
+}
+button{
+    width: 85%;
+    font-weight: bold;
+    float: initial;
+    height: 20px;
+    font-size: 15px;
+}
+body{
+    background-color: crimson;
+}
+
+.kkk{
+    margin-left: 220px;
+}
+
+select{
+    width: 340px;
+}
